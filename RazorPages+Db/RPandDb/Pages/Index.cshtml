@@ -1,0 +1,25 @@
+﻿@page
+@model RPandDb.Pages.IndexModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    <h2>Пользователи</h2>
+    <div>
+        @foreach (var item in Model.AllUsers)
+        {
+            <h4>
+                @item.Id | @item.Name | <a asp-page="Edit" asp-route-id="@item.Id">Изменить</a>| <form method="post">
+                    <button type="submit" asp-page-handler="delete" asp-route-id="@item.Id">
+                        Удалить
+                    </button>
+                </form>
+                
+                </h4>
+        }
+    </div>
+
+    <a asp-page="Create">Добавить пользователя</a>
+
+
+
+
+}

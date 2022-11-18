@@ -1,0 +1,15 @@
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\bin\Debug\net6.0\RPandDb.Repository.deps.json
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\bin\Debug\net6.0\RPandDb.Repository.dll
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\bin\Debug\net6.0\RPandDb.Repository.pdb
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\bin\Debug\net6.0\RPandDb.Model.dll
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\bin\Debug\net6.0\RPandDb.Model.pdb
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\obj\Debug\net6.0\RPandDb.Repository.csproj.AssemblyReference.cache
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\obj\Debug\net6.0\RPandDb.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\obj\Debug\net6.0\RPandDb.Repository.AssemblyInfoInputs.cache
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\obj\Debug\net6.0\RPandDb.Repository.AssemblyInfo.cs
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\obj\Debug\net6.0\RPandDb.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\obj\Debug\net6.0\RPandDb.Repository.csproj.CopyComplete
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\obj\Debug\net6.0\RPandDb.Repository.dll
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\obj\Debug\net6.0\refint\RPandDb.Repository.dll
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\obj\Debug\net6.0\RPandDb.Repository.pdb
+C:\Users\ukukk\source\repos\RPandDb\RPandDb.Repository\obj\Debug\net6.0\ref\RPandDb.Repository.dll

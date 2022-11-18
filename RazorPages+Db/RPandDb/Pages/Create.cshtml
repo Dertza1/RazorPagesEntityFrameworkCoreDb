@@ -1,0 +1,31 @@
+﻿@page
+@model RPandDb.Pages.CreateModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Добавление нового пользователя";
+}
+@{
+
+    <div>@ViewData["Title"]</div>
+    <div>
+        <form method="post">
+           
+             <div>
+              
+                <h2>Имя</h2>
+                <input asp-for="User.Name" />
+                <input type="submit" value="Отправить" />
+            </div>
+        </form>
+    </div>
+
+
+    @if (Request.Method == "POST")
+    {
+        if (@Model.User.Name == null)
+        {
+            <h3>Обязательно введите имя нового пользователя</h3>
+        }
+       
+    }
+}
